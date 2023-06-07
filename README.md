@@ -1,16 +1,8 @@
 # fitness_app
+Simple Fitness app.Helps to maintain fitness through home exercise.
 
-A new Flutter project.
+using get method from a free api : "https://raw.githubusercontent.com/codeifitech/fitness-app/master/exercises.json?fbclid=IwAR1s0681ePa8Rr6o_MM04G4Hnpp8MlweW4DKO-SOawqKbIB2nlR98cBzpT8".
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](https://raw.githubusercontent.com/HH-Tushar/fitness_app/0de05063626b0138761222a683300883cdb8d835/Fitness%20App.jpg)
